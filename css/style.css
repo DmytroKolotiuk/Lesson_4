@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+body {
+	background-color: darkgray;
+}
+
+.new {
+	font-family: fantasy;
+}
+
+.watch {
+	font-family: "Larsseit";
+	font-weight: bold;
+	text-shadow: 1px 1px 1px purple,
+		2px 2px 1px purple;
+	;
+}
+
+.air {
+	font-family: "Larsseit";
+	font-weight: bold;
+	text-shadow: 1px 1px 1px red,
+		2px 2px 1px red;
+	;
+}
+
+.iphone {
+	font-family: "Larsseit";
+	font-weight: bold;
+	text-shadow: 1px 1px 1px green,
+		2px 2px 1px green;
+	;
+}
+
+.watch-one {
+	color: blueviolet;
+	font-style: italic;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.second {
+	color: purple;
+	font-style: oblique;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.third {
+	color: green;
+	font-style: oblique;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.fourth {
+	color: chocolate;
+	font-style: oblique;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.fifth {
+	color: crimson;
+	font-style: oblique;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.sixth {
+	color: darkred;
+	font-style: oblique;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	font-family: "Lato";
+	background-color: powderblue;
+}
+
+a {
+	color: blue;
+}
